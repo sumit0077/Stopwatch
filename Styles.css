@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.stopwatch {
+    text-align: center;
+}
+
+#display {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
